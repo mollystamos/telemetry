@@ -7,6 +7,7 @@ import json
 import os
 
 # Print to console/stdout
+print "Testing Git Integration"
 print "Hello, {0}!".format(os.environ['DOMINO_PROJECT_OWNER'])
 
 # Define a helper function to generate a random number
